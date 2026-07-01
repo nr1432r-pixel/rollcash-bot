@@ -1,3 +1,6 @@
 python-telegram-bot==22.2
 firebase-admin
 python-dotenv
+python-telegram-bot==22.2
+firebase-admin==7.4.0
+python-dotenv==1.2.2
